@@ -1,2 +1,2 @@
-# my_atoi
-I have created a function which converts ascii values into integers
+# my_atoi(),my_atof()
+implemented atoi() and atof() functions 
